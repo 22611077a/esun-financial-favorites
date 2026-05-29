@@ -17,6 +17,11 @@ frontend/dist/
 # OS
 .DS_Store
 Thumbs.db
+Desktop.ini
+*.url
+
+# 本地說明文件，不需要上傳
+*.docx
 
 # Env
 .env
