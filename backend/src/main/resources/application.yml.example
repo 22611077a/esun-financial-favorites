@@ -1,0 +1,8 @@
+﻿# 複製此檔案為 application-local.yml 並填入實際值
+# cp application.yml.example application-local.yml
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/esun_db
+    username: your_db_username
+    password: your_db_password
